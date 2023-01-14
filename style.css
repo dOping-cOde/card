@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-items: center;
+    margin-top: 6%;
+}
+img{
+    border-radius: 40px;
+}
+.container{
+    background: 2px solid black;
+    background-color: rgb(203, 225, 245);
+    padding: 20px;
+    border-radius: 40px;
+}
+.back{
+    background-color: aqua;
+    padding: 7px;
+    border-radius: 10px;
+}
+.text{
+    color: blue;
+}
+
+                         
+                    
+
+
